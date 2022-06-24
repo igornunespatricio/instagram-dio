@@ -1,10 +1,3 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Página de Login do Instagram :rainbow_flag:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+Alteração da réplica da página de login do instagram produzida pela [SpruceGabriela](https://github.com/SpruceGabriela/instagram-dio). As alterações visam buscar a visibilidade do mês do orgulho LGBTQIA+.
